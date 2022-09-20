@@ -268,11 +268,6 @@ h1 {
     border-radius: 0;
     margin: 0rem 1rem 0rem 1rem;
 }
-logo.angle {
-    -webkit-box-shadow: inset 0px 0px 0px 2px var(--text-color) !important;
-    box-shadow: inset 0px 0px 0px 2px var(--text-color) !important;
-    border-radius: 0px !important;
-}
 #login .error {
     animation-name: shake;
     animation-duration: .7s;
