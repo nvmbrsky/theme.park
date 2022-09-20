@@ -262,6 +262,7 @@ h1 {
     display: none;
 }
 #login .logo {
+    display: none !important;
     background: var(--logo);
     background-size: contain;
     padding: 2rem;
